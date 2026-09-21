@@ -6,7 +6,7 @@
 <sup>2</sup> Department of Translational Medicine, Scripps Research Institute, San Diego, California, USA, 
 <sup>3</sup> Chan Zuckerberg Initiative, Redwood City, California, USA, 
 <sup>4</sup> Department of Zoology, Institute of Biosciences, Life Sciences Center, Vilnius University, Vilnius, Lithuania, 
-<sup>5</sup> Department of Eukaryotic Gene Engineering, Institute of Biotechnology, Life Sciences Center, Vilnius University, Vilnius, Lithuania
+<sup>5</sup> Department of Eukaryote Gene Engineering, Institute of Biotechnology, Life Sciences Center, Vilnius University, Vilnius, Lithuania
 
 
 ### Abstract
